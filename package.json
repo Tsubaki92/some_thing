@@ -1,0 +1,15 @@
+{
+  "name": "anything",
+  "version": "1.0.0",
+  "description": "For anything",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "just",
+    "anything"
+  ],
+  "author": "esraa-shori@hotmail.com",
+  "license": "ISC"
+}
