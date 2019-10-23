@@ -11,5 +11,13 @@
     "anything"
   ],
   "author": "esraa-shori@hotmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsubaki92/some_thing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tsubaki92/some_thing/issues"
+  },
+  "homepage": "https://github.com/Tsubaki92/some_thing#readme"
 }
